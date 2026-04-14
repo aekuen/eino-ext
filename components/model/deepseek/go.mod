@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/model/deepseek
+module github.com/aekuen/eino-ext/components/model/deepseek
 
 go 1.24.0
 

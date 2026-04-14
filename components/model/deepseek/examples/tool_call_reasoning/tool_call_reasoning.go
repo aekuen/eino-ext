@@ -29,7 +29,7 @@ import (
 	"github.com/cloudwego/eino/compose"
 	"github.com/cloudwego/eino/schema"
 
-	"github.com/cloudwego/eino-ext/components/model/deepseek"
+	"github.com/aekuen/eino-ext/components/model/deepseek"
 )
 
 func main() {

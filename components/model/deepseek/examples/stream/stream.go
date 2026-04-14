@@ -24,7 +24,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudwego/eino-ext/components/model/deepseek"
+	"github.com/aekuen/eino-ext/components/model/deepseek"
 	"github.com/cloudwego/eino/schema"
 )
 
